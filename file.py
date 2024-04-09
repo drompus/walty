@@ -1,0 +1,1 @@
+print("Piersza linijka")
